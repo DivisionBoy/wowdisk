@@ -10,7 +10,8 @@
 <script>
 
 export default {
-    
+    //First: start server XAMPP
+    //http://localhost/wowdisk/test.php - sample start php from browser; wowdisk - folder in xampp/htdocs - all php backend
 
     async created(){
         //adduser.php - добавляет пользователя в бд; test.php - yandex storage
